@@ -60,15 +60,26 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-
-
-
-
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
+
+<br>
+
+## 🪴 Практика и стажировка
+[<img src="/2026.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/2026.png)
+[<img src="/2026-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/2026-en.png)
 
 
 <br>
 
+## 🎒 Образование
+[<img src="/junru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/junru.png)
+[<img src="/junen.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/junen.png)
+[<img src="/midru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/midru.png)
+[<img src="/miden.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/miden.png)
+
+
+<br>
+<br>
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](bosn1ask@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rrrrrrrr1rrrrrrrrr) 
