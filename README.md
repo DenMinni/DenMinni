@@ -67,6 +67,8 @@
 ## 🪴 Практика и стажировка
 [<img src="/2026.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/2026.png)
 [<img src="/2026-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/2026-en.png)
+[<img src="/2026.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/2026.png)
+[<img src="/2026-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/DenMinni/DenMinni/refs/heads/main/2026-en.png)
 
 
 <br>
